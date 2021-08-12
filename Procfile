@@ -1,1 +1,1 @@
-web gunicorn vhproject2021.wsgi:apllication --log-file -
+web gunicorn vhproject2021.wsgi:application --log-file -
